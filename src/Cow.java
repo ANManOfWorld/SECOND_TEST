@@ -1,2 +1,3 @@
-public class Cow git {
+public class Cow {
+    public Cow (){}
 }
