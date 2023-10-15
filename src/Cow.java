@@ -1,3 +1,5 @@
 public class Cow {
-    public Cow (){}
+    public Cow (){
+        System.out.println("");
+    }
 }
